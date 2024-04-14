@@ -1,0 +1,16 @@
+{
+  "name": "rest-api-with-mongodb",
+  "version": "1.0.0",
+  "description": "This project hosts some REST APIs that handle 'users' with CRUD operation connected to mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
